@@ -29,7 +29,8 @@ namespace HelloWorld
             int y= 3;
             int z = x + y;
             Console.WriteLine(z);
-            
+            string luck = "mummy";
+            Console.WriteLine(luck);
 
         }
     }
