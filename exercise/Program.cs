@@ -25,6 +25,11 @@ namespace HelloWorld
             int myNum = 15;
             myNum = 20;
             Console.WriteLine(myNum);
+            int x= 2;
+            int y= 3;
+            int z = x + y;
+            Console.WriteLine(z);
+            
 
         }
     }
